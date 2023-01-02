@@ -1,3 +1,5 @@
+**DISCONTINUED**
+
 # TempClearer
 
 Q:What is **TempClearer**?
